@@ -12,13 +12,6 @@ machine.
 
 **Beta.** It works end to end. Expect rough edges and tell us about them in Issues.
 
-**License, in plain English:** Agents Office is a Sahni.ai product. It is free for personal and
-internal use. You may not sell it, resell it, or build a paid product on it. You may not rename it,
-rebrand it, strip the Sahni.ai mark or the notices, present it as your own, or wire it into or bundle
-it with another product, agent system or workforce. (Formal terms: PolyForm Noncommercial 1.0.0 plus
-Sahni.ai's additional terms — see [LICENSE](LICENSE).) The page carries the Sahni.ai mark at the
-bottom-left and a licence line along the bottom; leave them in place.
-
 ## Latest updates
 
 ![The calendar — tasks and routines on their days, a routine being scheduled from a date](assets/readme-calendar.jpg)
